@@ -100,7 +100,7 @@ body{
   .photo{
     height: 80vh;
     width: 100%;
-    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('/imgs/wheely-clean.png');
+    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('imgs/wheely-clean.png');
     justify-content: left;
     align-items:flex-end;
     background-position: 0 0, 50%, 70%;
@@ -114,7 +114,7 @@ body{
   .photo2{
     height: 80vh;
     width: 100%;
-    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('/imgs/zoom.png');
+    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('imgs/zoom.png');
     justify-content: left;
     align-items:flex-end;
     background-position: 0 0, 50%, 70%;
@@ -128,7 +128,7 @@ body{
   .photo3{
     height: 80vh;
     width: 100%;
-    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('/imgs/spotlesssights.png');
+    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('imgs/spotlesssights.png');
     justify-content: left;
     align-items:flex-end;
     background-position: 0 0, 50%, 70%;
@@ -142,7 +142,7 @@ body{
   .photo4{
     height: 80vh;
     width: 100%;
-    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('/imgs/partee.png');
+    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('imgs/partee.png');
     justify-content: left;
     align-items:flex-end;
     background-position: 0 0, 50%, 70%;
