@@ -142,7 +142,7 @@ body{
   .photo4{
     height: 80vh;
     width: 100%;
-    background-image: linear-gradient(#0c2d8fb8 0%,#ffdc9c89), url('imgs/partee.png');
+    background-image: url('imgs/partee.png');
     justify-content: left;
     align-items:flex-end;
     background-position: 0 0, 50%, 70%;
